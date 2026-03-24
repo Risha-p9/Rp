@@ -9,10 +9,10 @@
     <form action="Sign In">
         <label for="n">First Name :</label><br>       
         <input type="text" name="" placeholder="First Name " id="n">
-        <br><br>
+        <br>
         <label for="l">Laste Name :</label><br>
         <input type="text" name="" placeholder="Last Name" id="l">
-        <br><br>
+        <br>
         <label for="F">Father Name :</label><br>
         <input type="text" name="" placeholder="Father Name" id="F">
         <br><br>
